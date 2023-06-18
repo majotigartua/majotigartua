@@ -75,7 +75,7 @@ I am a <b>Software Engineer Student</b> at Facultad de Estadística e Informáti
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=majotigartua&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="majotigartua" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=majotigartuav&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="majotigartua" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=majotigartua&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="majotigartua" align = "center"/>
 </p>
 
 
