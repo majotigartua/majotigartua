@@ -66,7 +66,7 @@ I am a <b>Software Engineer Student</b> at Facultad de Estadística e Informáti
 
 ---
 
-<h2>ℹGithub Info</h2>
+<h2>ℹ Github info:</h2>
 	
 <summary><b>🔎 Github Profile Details</b></summary>
 
