@@ -21,7 +21,7 @@
 
 ---
 
-## 🧑 About me:
+## 👩🏼‍💻 About me:
 
 
 <p>
@@ -68,11 +68,11 @@ I am a <b>Software Engineer Student</b> at Facultad de Estadística e Informáti
 
 <h2>ℹ Github info:</h2>
 	
-<summary><b>🔎 Github Profile Details</b></summary>
+<summary><b>Github profile details:</b></summary>
 
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=majotigartua&theme=github_dark" alt="majotigartua" align = "center"/></p>
 
-<summary><b>⚡ Github Stats</b></summary>
+<summary><b>Github stats:</b></summary>
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=majotigartua&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="majotigartua" align = "center"/>
@@ -80,12 +80,12 @@ I am a <b>Software Engineer Student</b> at Facultad de Estadística e Informáti
 </p>
 
 
-<summary><b>🔥 Github Streaks</b></summary>
+<summary><b>Github streaks:</b></summary>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=majotigartua&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="majotigartua" /></p>
 
 <!-- </details>
 <details>    -->
- <summary><b>🏆 Github Achievements</b></summary>
+ <summary><b>Github achievements:</b></summary>
 <p align="center"> <a href="https://github.com/majotigartua"><img src="https://github-profile-trophy.vercel.app/?username=majotigartua&margin-w=5&theme=radical" alt="majotigartua" /></a> </p>
 
 <br>
