@@ -6,7 +6,7 @@
 
 <div>
 	<h3 align='center'> 
-    Software Engineer Student at <a href="https://www.uv.mx/fei/" target="_blanc" style="color:white;"> Universidad Veracruzana </a> 
+    Software engineer student at <a href="https://www.uv.mx/fei/" target="_blanc" style="color:white;"> Universidad Veracruzana </a> 
 	</h3>
 </div>
 
@@ -25,7 +25,7 @@
 
 
 <p>
-I'm a <b>Software Engineer Student</b> at Facultad de Estadística e Informática of the Universidad Veracruza, who loves <b>technology</b>, <b>learning new programming languages</b>, <b>team leadership</b> and <b>creative writting</b>. Currently I am looking for more and better opportunities to learn more about software development, being among my greatest interests <b>backend development</b>, <b>database administration</b> and <b>software project management</b>.
+I'm a <b>software engineer student</b> at the Faculty of Stadistics and Informatics of the Universidad Veracruza, who loves <b>technology</b>, <b>learning new programming languages</b>, <b>team leadership</b> and <b>creative writting</b>. Currently I am looking for more and better opportunities to learn more about software development, being among my greatest interests <b>backend development</b>, <b>database administration</b> and <b>software project management</b>.
 
 ---
 <h3><b>Programming languages and software technologies I know:</b></h3>
