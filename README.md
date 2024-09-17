@@ -63,11 +63,3 @@ I'm a <b>software engineer student</b> at the Faculty of Stadistics and Informat
 <a href="#"><img alt="lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"></a>
 
 </div>
-
----
-
-<h2>ℹ Github info:</h2>
-	
-<summary><b>🔍 Github profile details:</b></summary>
-
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=majotigartua&theme=github_dark" alt="majotigartua" align = "center"/></p>
