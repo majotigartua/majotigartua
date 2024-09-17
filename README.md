@@ -71,14 +71,3 @@ I'm a <b>software engineer student</b> at the Faculty of Stadistics and Informat
 <summary><b>🔍 Github profile details:</b></summary>
 
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=majotigartua&theme=github_dark" alt="majotigartua" align = "center"/></p>
-
-<summary><b>🏅 Github stats:</b></summary>
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=majotigartua&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="majotigartua" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=majotigartua&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="majotigartua" align = "center"/>
-</p>
-
-
-<summary><b>🔥 Github streaks:</b></summary>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=majotigartua&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="majotigartua" /></p>
